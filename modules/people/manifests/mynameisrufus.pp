@@ -37,6 +37,7 @@ class people::mynameisrufus {
       'zsh',
       'ghc',
       'cabal-install',
+      'libcouchbase'
     ]:
   }
 

@@ -31,7 +31,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-go
   specs:
-    go (1.0.0)
+    go (2.0.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-homebrew
@@ -86,7 +86,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-ruby
   specs:
-    ruby (6.7.2)
+    ruby (7.2.3)
 
 GITHUBTARBALL
   remote: boxen/puppet-sudo
@@ -120,7 +120,7 @@ DEPENDENCIES
   foreman (= 1.0.0)
   gcc (= 2.0.1)
   git (= 1.2.5)
-  go (= 1.0.0)
+  go (= 2.0.1)
   homebrew (= 1.5.1)
   hub (= 1.0.3)
   inifile (= 1.0.0)
@@ -132,7 +132,7 @@ DEPENDENCIES
   pkgconfig (= 1.0.0)
   postgresql (= 3.0.1)
   repository (= 2.2.0)
-  ruby (= 6.7.2)
+  ruby (= 7.2.3)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
   sysctl (= 1.0.0)

@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+source "http://rubygems.ae.sda.corp.telstra.com/gemrepo"
 
 gem "boxen",                  "~> 2.0.4"
 gem "hiera",                  "~> 1.1"
